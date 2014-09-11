@@ -1,7 +1,7 @@
-Domain         :: Coding Dojo (cd)
-Areas of Study :: Ruby on Rails (ror), Understanding Rails - Models (02model)
-Assignment     :: Blogs/Posts/Messages #1 (03blog1)
-Repository     :: cd-ror-02model-03blog1
+*Domain*         :: Coding Dojo (cd)
+*Areas of Study* :: Ruby on Rails (ror), Understanding Rails - Models (02model)
+*Assignment*     :: Blogs/Posts/Messages #1 (03blog1)
+*Repository*     :: cd-ror-02model-03blog1
 
 
   ---------------
